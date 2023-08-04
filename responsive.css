@@ -1,0 +1,19 @@
+  
+@media only screen and (max-width: 600px) {
+    *{
+        width: auto;
+        height: auto;
+    }
+    #chatbox {
+      width: 100%;
+    }
+
+}
+  
+@media only screen and (max-width: 400px) {
+
+    .chat-log {
+      height: 150px;
+    }
+
+}
